@@ -1,23 +1,25 @@
-{'noiseKey":{"private":
+{"noiseKey": {"private":
 
-("type": "Buffer", "data":"yDpjBG50Wor8FK+Y2A3MdG36uMb X7bV5Q9qeSHNhmk0="),"public": ("type":"Buffer","data":"92Xtr+bjMVvGLluQhA7P6Aum7/ eNXCipQ2CeBcLvLy4=")), pairing EphemeralKeyPai r":{"private": ("type": "Buffer","data":"cL8VJQ9mvfsN2za1jn+QB03OJLPIZ 79frqDZSBLjgH8="),"public": ("typ e":"Buffer","data": "FBtpl.8y+o8FVnectnisCZERf1JvL.Dnddb8 1dl.gFjbjg=")).signedIdentityKey":["private":{ "type": "Buffer","data": "OCi9yNuTrV6rJ4wGeta+X10DHaoRLy ytedSrgoy/91g="),"public":{"type": "Buffer", "da ta":"RwOAFaw4WiS9bvmNQV5kHIULLR654cW4N6zhg/ xW9mo=")),"signed PreKey":("keyPair": ["private" ("type": "B uffer", "data": "6BDyybWCTfUZcwXE5fFaJsVG236IP5B9FKxi CFOGUWA","public":{"type": "Buffer", "data":"iofz cyqPQdqvfh8w42vQZBXeoDre38BXXC7xrESf6Dc="}},"signa ture" ("type": "Buffer", "data":"8hpPTBJfHUals1e9MNL 0KManGJh1JFS88t6QiRhgvEnzuqbYu5QoeZZBSAMajoZ2d bi0yrzDW9KTMroSo6ZoiA=="), keyld":1), registrationld": 208,"advSecretKey": "NXEPs0Pa7IsS04EHSZYN1+CK+3+5P +WXz5fAz9N7H6E=","processed HistoryMessages":[],"nex tPreKeyld":31,"firstUnuploaded PreKeyld":31,"accountSyncC ounter":0,"accountSettings":["unarchiveChats ":false), deviceld":"Jor_oRo1QvWDF3ID80wX7g","phoneld":" 9cc5e375-0011-4ea5-8cab-1972a08971fb","ident ityld":{"type": "Buffer","data":"cZok/Vx.JPEeiS+mvOixpJe4S/ 14-"),"registered":true,"backup Token": ("typ e":"Buffer", "data":"p4m4cmt/DQTMYQbmdBLa/
+{"type":"Buffer","data":"6DeUKPNTV+MUylviiu/ WW33f9bir2EW8gVUF+0witkU="},"public": {"type":"Buffer","data":"JEHMWoN9tiKbBv/ kEi9KqQz8KI+yj01k+u0IRzJYIWU="}},"pairing Ephemeral Key Pai
 
-8VbtfM="),"registration": (),"pairingCode": "3PT15M5H","me": "id":"212687818466:2@s.whatsapp.net"), account": ("details" "CNeduxwQ7pm11AYYASAAKAA="accountSigna
+r":{"private": {"type":"Buffer","data": "eDwSfcRdk5sw4qrZQpFdnVlyMVjrK MxVIhMyqZQTv2E="},"public":{"typ e":"Buffer","data":"3PNH92JEvN2U6hf7Yz+t6GBDvTAJ21T5 hHteu06WImc="}},"signedIdentityKey":{"private":{ "type":"Buffer","data": "mBmYLqYTKPJcgehKFU8KTORJmAq WrPb/01yk1bGsB0U="},"public":{"type":"Buffer","da ta":"o1Ey2U50B60Q5mdDFDpKkEGbHsk2BhXP6aQ6hcYJf "signed PreKey": {"keyPair":{"private":{"type":"B SO="}},"signed uffer","data":"CCAnanwtleDb9PGxrS5aewB0/ NMbDp7lUdHXTgUGdns="},"public": {"type": "Buffer","data":"+OzL eOuUxvKyLfcs5c7c2xPE3S9YnDQPhHLpJIS6tU8="}},"signat
 
-t
+ure":{"type":"Buffer","data":"nHdpmQBkY0fEAp4TF0v owecD9QYyK4vrhN69AZPUybtWLycZqIZL84uxB9ABL3Z1j2 FXdtwPDH5VktSoXcYSBA=="),"keyld":1}, "registrationld": 158,"advSecretKey":"lUqpl6Vc+Oi4GVeCwt50hBslOhiUe14 L5foAJDIAyY=","processed History Messages":[],"nex tPreKeyld":31,"first Unuploaded PreKeyld":31,"accountSyncC ounter":0,"accountSettings":{"unarchiveChats ":false}, "deviceId":"fOk2h2vSRZugQw7B5GxUVQ","phoneld":" ee0428d4-1a09-4a58-87ac-4091a8bc3b78","ident ityld":
 
-ureKey":"r259w2/ YDXjMZ9pl5WmXLnEXXSbK4mHlhh+0xEkF5yU=","account
+{"type": "Buffer","data":"idx66JWfQRImdeETuu1xZF4RYAg="}, "registered":true,"backup Token": {"typ e":"Buffer","data":"/ BslQo8+3wEIKv7vS2zjvalG42Q=")}, "registration": (),"pairingCode":"3QLPJMGX","me":{ "id":"212687818466:3@s.whatsapp.net"), "account":
 
-Signature: 4sNXoDqe7SLALRQN6xzN05yGJ
+("details":"CNiduxwQh7q1tAYYASAAKAA=","accountSignat
 
-+6TWW+pF7Vv7rjKv3fnUNxTtNvRat0bQfZhcKpwWs+UXQ mdm7aaKBDL6zPeBw==","deviceSignature":"y0eHqsDMaA 1r9Uwt
+ureKey":"r2S9w2/
 
-swmd4dt2zlujDTf4p03AHDfJA0acqjmTpLpG2awUG/
+YDXjMZ9pI5WmXLnEXXSbK4mHlhh+0xEkF5yU=","account Signature":"WzmHKMpJ74uhsH9tg0JznnWZ6
 
-aig33gaZgSZSZLSN7TTLg2g+x0hw=="),"signalldentities": [{"ide ntifier":
+oiqi9Koes+fHuJ2S05a9VITv8DyCmmUoDGDb3dxqzV6zV7 pVSZgFqX35VSZAw==","deviceSignature":"CoGrjWGI5IVas
 
-("name":"212687818466:2@s.whatsapp.net" "deviceld":0), dentifierKey" ("type": "Buffer" dat
+MNx azILYTpBmsxUFq2MQOPhwf3SBbiwxKQXAvGM48lyfyLKSL
 
-a: "Ba9kvcNv2A14zGfaSOVply5xF10myuJhylYftMRJBecl"}} ]"platform":"android", "lastAccountSync Timestamp"
+zyxlY5rdSs3x9B1v0pZ9wIBA=="),"signalldentities":[{"ide ntifier":
 
-1720536306
+{"name":"212687818466:3@s.whatsapp.net","deviceld":0},"i dentifierKey":{"type":"Buffer","dat a":"Ba9kvcNv2A14zGfaSOVply5xF10myuJhylYftMRJBecl"}}
+
+],"platform":"android","lastAccountSyncTimestamp" :1720540426)
